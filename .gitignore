@@ -1,0 +1,6 @@
+datos.csv
+fecha_descarga_utc.txt
+datos.csv.tmp
+public/
+__pycache__/
+.venv/
